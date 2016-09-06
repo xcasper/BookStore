@@ -8,9 +8,5 @@ C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\BookStore.csprojResolveAssemblyReference.cache
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\BookStore.exe
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\BookStore.pdb
-C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.nib
-C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\4-view-5.nib
-C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\Info.plist
-C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UITableViewController-4.nib
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\obj\iPhoneSimulator\Debug\BookStore.exe.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore\bin\iPhoneSimulator\Debug\BookStore.exe.mdb
