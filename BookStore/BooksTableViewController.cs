@@ -49,9 +49,9 @@ namespace BookStore
 
         public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
         {
-            var cell = tableView.DequeueReusableCell("Book");
+            var cell = tableView.DequeueReusableCell("Book") as  BookTableViewCell;
             var data = bookList[indexPath.Row];
-            cell.TextLabel.Text = data.name;
+            cell.BookData = data;
             return cell;
         }
     }
