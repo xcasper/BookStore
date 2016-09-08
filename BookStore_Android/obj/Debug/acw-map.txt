@@ -1,0 +1,4 @@
+BookStore_Android.MainActivity, BookStore_Android;md5ad5791921f195750711eb373e5d9ce8d.MainActivity
+BookStore_Android.MainActivity, BookStore_Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ad5791921f195750711eb373e5d9ce8d.MainActivity
+BookStore_Android.MainActivity;md5ad5791921f195750711eb373e5d9ce8d.MainActivity
+bookstore_android.MainActivity;md5ad5791921f195750711eb373e5d9ce8d.MainActivity
