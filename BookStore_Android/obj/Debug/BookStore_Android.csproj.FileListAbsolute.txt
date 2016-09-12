@@ -35,5 +35,6 @@ C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\a
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.csprojResolveAssemblyReference.cache
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.dll.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\bin\Debug\BookStore_Android.dll.mdb
