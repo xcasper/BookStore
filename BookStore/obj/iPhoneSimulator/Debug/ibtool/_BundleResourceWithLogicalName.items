@@ -5,6 +5,10 @@
       <LogicalName>LaunchScreen.nib</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\319-view-320.nib">
+      <LogicalName>Main.storyboardc/319-view-320.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\4-view-5.nib">
       <LogicalName>Main.storyboardc/4-view-5.nib</LogicalName>
       <Optimize>false</Optimize>
@@ -13,8 +17,12 @@
       <LogicalName>Main.storyboardc/Info.plist</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UITableViewController-4.nib">
-      <LogicalName>Main.storyboardc/UITableViewController-4.nib</LogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UINavigationController-29.nib">
+      <LogicalName>Main.storyboardc/UINavigationController-29.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UIViewController-319.nib">
+      <LogicalName>Main.storyboardc/UIViewController-319.nib</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
   </ItemGroup>

@@ -84,6 +84,10 @@
     <CodesignKey>iPhone Distribution</CodesignKey>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BookDetailsViewController.cs" />
+    <Compile Include="BookDetailsViewController.designer.cs">
+      <DependentUpon>BookDetailsViewController.cs</DependentUpon>
+    </Compile>
     <Compile Include="BooksTableViewController.cs" />
     <Compile Include="BooksTableViewController.designer.cs">
       <DependentUpon>BooksTableViewController.cs</DependentUpon>
@@ -110,6 +114,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Entitlements.plist" />
+    <BundleResource Include="Images\chamber_secrets.jpg" />
+    <BundleResource Include="Images\prisoner_azkaban.jpg" />
+    <BundleResource Include="Images\sorc_stone.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

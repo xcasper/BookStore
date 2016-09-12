@@ -17,7 +17,8 @@ namespace BookStore
                 name = "Harry Potter and the Sorcerer's Stone",
                 author = "J.K Rowling",
                 publisher = "Bloomsbury",
-                year = 1997
+                year = 1997,
+                imagePath = "Images/sorc_stone.jpg"
             });
 
             bookList.Add(new Book()
@@ -25,7 +26,8 @@ namespace BookStore
                 name = "Harry Potter and the Chamber of Secrets",
                 author = "J.K Rowling",
                 publisher = "Bloomsbury",
-                year = 1998
+                year = 1998,
+                imagePath = "Images/chamber_secrets.jpg"
             });
 
             bookList.Add(new Book()
@@ -33,7 +35,8 @@ namespace BookStore
                 name = "Harry Potter and the Prisoner of Azkaban",
                 author = "J.K Rowling",
                 publisher = "Bloomsbury",
-                year = 1999
+                year = 1999,
+                imagePath = "Images/prisoner_azkaban.jpg"
             });
         }
 
@@ -54,13 +57,30 @@ namespace BookStore
             cell.BookData = data;
             return cell;
         }
+
+        public override void PrepareForSegue(UIStoryboardSegue segue, NSObject sender)
+        {
+            if (segue.Identifier == "bookDetailsSegue")
+            {
+                var navigationController = segue.DestinationViewController as BookDetailsViewController;
+
+                if(navigationController != null)
+                {
+                    var rowPath = TableView.IndexPathForSelectedRow;
+                    var selectedData = bookList[rowPath.Row];
+                    navigationController.selectedBook = selectedData;
+                }
+            }
+        }
     }
 
     public class Book
     {
+
         public string name;
         public string author;
         public string publisher;
         public int year;
+        public string imagePath;
     }
 }
