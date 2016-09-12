@@ -2,10 +2,10 @@ C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\bin\Debug\B
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\bin\Debug\BookStore_Android.pdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\bin\Debug\BookStore_Android.BookStore_Android.apk
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\bin\Debug\BookStore_Android.BookStore_Android-Signed.apk
-C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.csprojResolveAssemblyReference.cache
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.dll
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.pdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\android\bin\BookStore_Android.BookStore_Android.apk
+C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\layout\bookcell.xml
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\layout\main.xml
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\values\strings.xml
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\drawable\icon.png
