@@ -36,5 +36,9 @@ C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\a
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.csprojResolveAssemblyReference.cache
+C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\layout\bookdetails.xml
+C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\drawable\sorc_stone.jpg
+C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\drawable\chamber_secrets.jpg
+C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\res\drawable\prisoner_azkaban.jpg
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\obj\Debug\BookStore_Android.dll.mdb
 C:\Users\cglec\OneDrive\Documents\GitHub\BookStore\BookStore_Android\bin\Debug\BookStore_Android.dll.mdb

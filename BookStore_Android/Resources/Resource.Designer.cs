@@ -45,7 +45,16 @@ namespace BookStore_Android
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int chamber_secrets = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Icon = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int prisoner_azkaban = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int sorc_stone = 2130837507;
 			
 			static Drawable()
 			{
@@ -60,11 +69,14 @@ namespace BookStore_Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050006
-			public const int MyButton = 2131034118;
+			// aapt resource value: 0x7f050007
+			public const int MyButton = 2131034119;
 			
 			// aapt resource value: 0x7f050003
 			public const int bookAuthorTextView = 2131034115;
+			
+			// aapt resource value: 0x7f050006
+			public const int bookCoverImageView = 2131034118;
 			
 			// aapt resource value: 0x7f050001
 			public const int bookNameTextView = 2131034113;
@@ -98,7 +110,10 @@ namespace BookStore_Android
 			public const int BookCell = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int BookDetails = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Main = 2130903042;
 			
 			static Layout()
 			{
