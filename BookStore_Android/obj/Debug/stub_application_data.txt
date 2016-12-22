@@ -1,0 +1,2 @@
+android.app.Application
+BookStore_Android.BookStore_Android
